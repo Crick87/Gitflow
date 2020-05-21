@@ -1,0 +1,15 @@
+{
+  "name": "gitflow",
+  "version": "1.0.0",
+  "description": "Gitflow test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@franc1sco.github.com:Crick87/Gitflow.git"
+  },
+  "author": "franc1sco",
+  "license": "ISC"
+}
