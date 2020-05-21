@@ -4,7 +4,7 @@
   "description": "Gitflow test",
   "main": "index.js",
   "scripts": {
-    "test": "echo hello"
+    "test": "echo Hello world"
   },
   "repository": {
     "type": "git",

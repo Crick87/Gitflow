@@ -1,5 +1,5 @@
 # Gitflow
 
-This is a Gitflow test with SonarCloud integration for the pull-request.
+![Build](https://github.com/Crick87/Gitflow/workflows/Build/badge.svg)
 
-Ch1
+This is a Gitflow test with SonarCloud integration for the pull-request.
